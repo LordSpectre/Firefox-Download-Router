@@ -30,4 +30,4 @@ $manifestPath = Join-Path $binPath 'org.kronos.firefox_download_router.json'
 [IO.File]::WriteAllText($manifestPath, ($manifest | ConvertTo-Json -Depth 5), (New-Object Text.UTF8Encoding($false)))
 New-Item -Path $registryPath -Force | Out-Null
 Set-Item -LiteralPath $registryPath -Value $manifestPath
-Write-Output (Message 'Componente 0.4.0 installato per il tuo utente. Apri le opzioni di FF-Download-Router in Firefox e premi Verifica componente.' 'Component 0.4.0 installed for your account. Open FF-Download-Router Options in Firefox and click Check component.')
+Write-Output (Message 'Componente 0.5.0 installato per il tuo utente. Apri le opzioni di FF-Download-Router in Firefox e premi Verifica componente.' 'Component 0.5.0 installed for your account. Open FF-Download-Router Options in Firefox and click Check component.')
