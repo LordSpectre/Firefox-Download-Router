@@ -9,8 +9,8 @@ Choose Firefox, Internet Download Manager, Mister Download Manager, or another W
 Download **FF-Download-Router-0.4.0-Windows-x64.zip** from the [latest release](https://github.com/LordSpectre/Firefox-Download-Router/releases/latest) and extract the complete archive.
 
 1. Run **Install-component.cmd** to install the local Windows component. Administrator rights and a separate .NET installation are not required.
-2. In Firefox, open `about:addons`, click the gear icon, and choose **Install Add-on From File�**. Select **FF-Download-Router-0.4.0.xpi** and confirm the installation.
-3. Open the extension's **Options**. Use **Browse�** to select each download manager's executable, choose your **Preferred downloader**, and click **Save settings**.
+2. In Firefox, open `about:addons`, click the gear icon, and choose **Install Add-on From File…**. Select **FF-Download-Router-0.4.0.xpi** and confirm the installation.
+3. Open the extension's **Options**. Use **Browse…** to select each download manager's executable, choose your **Preferred downloader**, and click **Save settings**.
 
 The extension starts in English. Choose **Language** in Options to switch immediately between 20 languages and regional variants.
 
