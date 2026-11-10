@@ -2,6 +2,8 @@
 
 Choose Firefox, Internet Download Manager, Mister Download Manager, or another Windows download manager before downloading a file. Your preferred downloader is selected automatically.
 
+![Download chooser with Firefox, Internet Download Manager and Mister Download Manager](assets/download-chooser.png)
+
 **Requirements:** Windows 10/11 x64 and Firefox 142 or later.
 
 ## Download and install
